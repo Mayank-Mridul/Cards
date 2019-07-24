@@ -1,6 +1,5 @@
 package main
 
-//HAVE A GOOD DAY
 import "fmt"
 
 func main() {
